@@ -19,6 +19,7 @@ const Login = () => {
 					</div>
 					<input type="password" className="w-100 d-block font-14 text-secondry-black" />
 				</div>
+                
 				<button type="button" className="text-capitalize text-nowrap text-center w-100 font-18 text-white">
 					sign in
 				</button>
