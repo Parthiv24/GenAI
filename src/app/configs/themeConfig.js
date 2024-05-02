@@ -1,6 +1,8 @@
+import loginBG from "@assets/images/background.jpg";
+
 const themeConfig = {
 	colors: {},
-	images: {},
+	images: { loginBG },
 };
 
 export default themeConfig;

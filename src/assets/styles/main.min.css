@@ -12943,3 +12943,87 @@ body.swal2-toast-shown .swal2-container.swal2-bottom {
 body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown .swal2-container.swal2-bottom-right {
   inset: auto 0 0 auto;
 }
+
+.text-color {
+  color: #444444;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-parimary-black {
+  color: #333333;
+}
+
+.text-secondry-black {
+  color: #555;
+}
+
+.text-secondry-light-color {
+  color: #337ab7;
+}
+
+.font-14 {
+  font-size: 14px;
+}
+
+.font-18 {
+  font-size: 18px;
+}
+
+.font-24 {
+  font-size: 24px;
+}
+
+.login--section {
+  background-image: url("../images/background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.login--section .login--card {
+  background-color: #ffffff;
+  padding: 15px 30px;
+  opacity: 0.85;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  max-width: 555px;
+  width: 100%;
+  border-radius: 4px;
+}
+.login--section .login--card h3, .login--section .login--card .h3 {
+  font-weight: 500;
+  line-height: 30px;
+}
+.login--section .login--card label {
+  font-weight: 700;
+  line-height: 35px;
+}
+.login--section .login--card input {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  outline: none;
+  height: 40px;
+  margin: 10px 0px;
+  font-weight: 400;
+}
+.login--section .login--card input::placeholder {
+  font-size: 14px;
+  font-weight: 400;
+  color: #555;
+}
+.login--section .login--card button {
+  background-color: #145585;
+  border-bottom: 5px solid #c8c8c8 !important;
+  border-radius: 2px;
+  height: 60px;
+  outline: none;
+  border: none;
+  margin-top: 20px;
+  transition: all 0.3s ease-in-out;
+}
+.login--section .login--card button:hover {
+  background-color: #10456d;
+}

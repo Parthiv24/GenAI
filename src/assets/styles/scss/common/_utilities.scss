@@ -1,0 +1,31 @@
+@import "../common/variables";
+
+//  ============> FONT-COLOR'S <============
+
+.text-color {
+	color: $themePrimaryColor;
+}
+.text-white {
+	color: $themeWhiteColor;
+}
+.text-parimary-black {
+	color: $themePrimaryBlack;
+}
+.text-secondry-black {
+	color: $themeSecondryBlack;
+}
+.text-secondry-light-color {
+	color: $themeSeconderyLightColor;
+}
+
+//  ============> FONT-SIZE'S <============
+
+.font-14 {
+	font-size: $font-14;
+}
+.font-18 {
+	font-size: $font-18;
+}
+.font-24 {
+	font-size: $font-24;
+}
